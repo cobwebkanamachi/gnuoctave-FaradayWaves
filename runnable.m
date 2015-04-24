@@ -1,7 +1,9 @@
 % Pattern formation in Faraday Waves
 % Kirsten Meeker
 % kmeeker@cs.ucsb.edu
+% FOUND ON http://www.cs.ucsb.edu/~kmeeker/Faraday.htm
 % ORIGINAL FILE http://www.cs.ucsb.edu/~kmeeker/Faraday.m
+% AUTHOR's document: http://www.cs.ucsb.edu/~kmeeker/Faraday.pdf
 clear all;
 % modifier : @cobwebkanamachi
 % environment: gnu octave 3.8.0, mac osx
