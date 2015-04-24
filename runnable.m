@@ -6,10 +6,12 @@ clear all;
 % modifier : @cobwebkanamachi
 % environment: gnu octave 3.8.0, mac osx
 % if you did not read or know about Faraday Waves, misc docs bellow are.
-% http://www.princeton.edu/~wbialek/rome/refs/cross+hohenberg_93.pdf
+% http://arxiv.org/pdf/cond-mat/9704060v2.pdf
+% above paper is mostly important to run this.
 % http://arxiv.org/pdf/1005.5257.pdf
 % http://web.archive.org/web/20070806053342/http://haides.caltech.edu/~lifshitz/patterns.html
 % http://www.mathworks.com/matlabcentral/fileexchange/5355-toolbox-graph/content/toolbox_graph/write_off.m
+% http://www.princeton.edu/~wbialek/rome/refs/cross+hohenberg_93.pdf
 % input parameters
 e = [0.4 0.1 0.001 0.05 0.05 3 1 1 1 1 1];
 q = [2*cos(pi/12) 1.2 2*cos(pi/12) 2*cos(pi/12) 2*cos(pi/12) 2*cos(pi/12) 2*cos(pi/12) 2*cos(pi/12) 2*cos(pi/12) 2*cos(pi/12) 2*cos(pi/12)];
